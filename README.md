@@ -1,3 +1,3 @@
 # Intro--github
 Primeros pasos con Git y GitHub
-Hola
+<p>Hola, esto es un ejercicio de VSC y GitHub
